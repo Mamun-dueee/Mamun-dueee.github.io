@@ -1,0 +1,14 @@
+.navbar-default {
+  border: none;
+}
+
+#color-me {
+    color: blue;
+}
+
+#quotes-header {
+    color: #DF01D7;
+
+}
+
+body { padding-top: 50px; }
